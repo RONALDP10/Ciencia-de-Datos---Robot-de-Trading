@@ -30,4 +30,7 @@ El bot toma decisiones basadas en las siguientes reglas:
 El bot se ejecuta en un loop infinito, tomando decisiones cada 5 minutos, descargando nuevos datos, limpiando los datos y calculando las medias móviles para decidir la acción a tomar.
 
 ## 📊 Visualización de Resultados
-Se pueden generar gráficos para visualizar el comportamiento de las medias móviles y el precio de Bitcoin utilizando bibliotecas como Matplotlib y Plotly.
+Se pueden generar gráficos para visualizar el comportamiento de las medias móviles y el precio de Bitcoin utilizando bibliotecas como Matplotlib y Plotly.}
+
+## VISUALIZACIÓN STREAMLIT
+Con streamlit se crea una aplicación web para visualizar de forma remota los resultados del proyecto de ciencia de datos.
